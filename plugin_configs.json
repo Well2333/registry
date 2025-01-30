@@ -693,5 +693,5 @@
   "nonebot-plugin-joke:nonebot_plugin_joke": "",
   "nonebot-plugin-group-file-admin:nonebot_plugin_group_file_admin": "",
   "nonebot-plugin-deepseek:nonebot_plugin_deepseek": "",
-  "nonebot-plugin-bot-tap:nonebot_plugin_bot_tap": ""
+  "nonebot-plugin-bot-tap:nonebot_plugin_bot_tap": "BOT_TAP_TOKEN=\"abc123456\""
 }
